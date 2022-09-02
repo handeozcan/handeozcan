@@ -2,6 +2,7 @@
 <h3 align="center">A Junior Frontend Developer from Turkey</h3>
 
 - 🌱 I’m currently learning **JavaScript and React**
+- 💟 I like **Javascript** challenges.
 - 💬  Ask me about anything!
 - 📫 How to reach me **handeeozcann@gmail.com**
 
@@ -25,8 +26,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
+<!-- <summary>:bulb:-->
 
-## <summary>:bulb:  Most Used Languages</summary>
+## 💻 Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handeozcan&layout=compact&theme=dark" >
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=handeozcan&show_icons=true&theme=dark&title_color=ffffff&text_color=888686&locale=en" alt="handeozcan" /></p>
