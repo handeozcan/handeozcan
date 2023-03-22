@@ -1,10 +1,6 @@
 <h1 align="center">Hi everyone👋, I'm Hande</h1>
 <h3 align="center">A Junior Frontend Developer from Turkey</h3>
-<!-- 
-- 🌱 I’m currently learning **JavaScript and React.js**
-- 💟 I like **Javascript** challenges.
-- 💬  Ask me about anything!
--->
+
 - 📫 How to reach me **handeeozcann@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
