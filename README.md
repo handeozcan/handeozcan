@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone👋, I'm Hande</h1>
-<h3 align="center">A Junior Frontend Developer from Turkey</h3>
+<h3 align="center">Frontend Developer from Turkey</h3>
 
 - 📫 How to reach me **handeeozcann@gmail.com**
 
